@@ -1,8 +1,10 @@
 🛠 Tech Stack 🛠  
 
 <div align="center">
-BASICS | html css javascript typescript  
+BASICS | html css javascript typescript
+  
 Framework | react next  
+  
 State Management | recoil redux  
 
 Node Packages  
