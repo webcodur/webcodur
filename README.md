@@ -1,9 +1,9 @@
 🛠 Tech Stack 🛠  
 
 <div align="center">
-  html css JS TS
-  react next
-  recoil redux
+  html css JS TS  
+  react next  
+  recoil redux  
 
 Node Packages  
 - react-simple-maps
