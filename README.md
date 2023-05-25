@@ -1,6 +1,8 @@
 🛠 Tech Stack 🛠  
-html | css | javascript | typescript  
+html css | javascript | typescript  
+
 react | next  
+
 recoil | redux  
 
 Node Packages  
