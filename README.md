@@ -1,20 +1,9 @@
 🛠 Tech Stack 🛠  
 
 <div align="center">
-  - html 
-- css
-- javascript
-- typescript  
-</div>
-
-
-
-Framework
-- react 
-- next  
-
-State Management
-- recoil redux  
+BASICS | html css javascript typescript  
+Framework | react next  
+State Management | recoil redux  
 
 Node Packages  
 - react-simple-maps
@@ -31,4 +20,6 @@ Node Packages
 - CSS IN JS
   - emotion.js
   - styled-components
- 
+</div>
+
+
