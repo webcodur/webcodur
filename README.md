@@ -1,6 +1,6 @@
 
 <div>
-BASIC : html css JS TS<br/>
+BASIC : html css JS TS py <br/>
 FRAMEWORK : react next<br/>
 STATE: recoil redux <br/><br/>
 Node Packages  <br/>
