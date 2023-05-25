@@ -1,7 +1,16 @@
 🛠 Tech Stack 🛠  
-html css | javascript | typescript  
-react | next  
-recoil | redux  
+
+- html 
+- css
+- javascript
+- typescript  
+
+Framework
+- react 
+- next  
+
+State Management
+- recoil redux  
 
 Node Packages  
 - react-simple-maps
