@@ -2,8 +2,10 @@
 html | css | javascript | typescript  
 react | next  
 recoil | redux  
-  
-Node Packages   
+
+
+ 
+Node Packages  
 - react-simple-maps
 - react-chartjs-2
 - slick-slider
@@ -13,3 +15,9 @@ Node Packages
 - react-quill (html-react-parser)
 - json-server
 - JEST 
+- design-library
+  - BootStrap 
+- CSS IN JS
+  - emotion.js
+  - styled-components
+ 
