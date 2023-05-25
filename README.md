@@ -1,9 +1,13 @@
 🛠 Tech Stack 🛠  
 
-- html 
+<div align="center">
+  - html 
 - css
 - javascript
 - typescript  
+</div>
+
+
 
 Framework
 - react 
