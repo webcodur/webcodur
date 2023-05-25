@@ -1,5 +1,6 @@
 
 <div>
+<b>
 BASIC : html css JS TS<br/>
 FRAMEWORK : react next<br/>
 STATE : recoil redux <br/><br/>
@@ -16,4 +17,5 @@ JEST  |
 BootStrap |
 emotion.js |
 styled-components |
+<b/>
 <div/>
