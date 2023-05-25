@@ -7,6 +7,7 @@ Node Packages  <br/>
 react-simple-maps | 
 react-chartjs-2 |
 slick-slider |
+swiper.js |
 puppeteer |
 history |
 lodash |
