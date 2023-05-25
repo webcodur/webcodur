@@ -1,4 +1,4 @@
 🛠 Tech Stack 🛠  
-HTML | CSS | JS | TS  
-REACT | NEXT  
-RECOIL | REDUX  
+html | css | javascript | typescript  
+react | next  
+recoil | redux  
