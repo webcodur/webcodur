@@ -1,8 +1,8 @@
 
 <div>
-BASIC : html css JS TS py <br/>
-FRAMEWORK : react next<br/>
-STATE: recoil redux <br/><br/>
+language : html css js ts py <br/>
+framework : react next<br/>
+state : recoil redux <br/><br/>
 Node Packages  <br/>
 react-simple-maps | 
 react-chartjs-2 |
