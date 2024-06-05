@@ -2,7 +2,7 @@
 <div>
 language : html css js ts py <br/>
 framework : react next<br/>
-state : recoil redux <br/><br/>
+state : recoil redux jotai <br/><br/>
 Node Packages  <br/>
 react-simple-maps | 
 react-chartjs-2 |
